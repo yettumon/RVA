@@ -1,0 +1,12 @@
+# RVA: Recession Velocity Anisotropy
+# Kim, GunSik (Yettumon) 2026c
+# github.com/yettumon/RVA
+#
+# Install: pip install -r requirements.txt
+
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+
+# Optional: required only for validation7_CMB_collinearity.py (§4.3)
+# astropy>=5.0
